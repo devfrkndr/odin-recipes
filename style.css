@@ -1,0 +1,30 @@
+body {
+  background-color: azure;
+  font-family: "menlo", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: darksalmon;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  color: burlywood;
+  font-style: italic;
+}
+
+p {
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: darkgoldenrod;
+}
